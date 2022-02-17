@@ -1,0 +1,22 @@
+.logo {
+    margin-left: 650px;
+    
+}
+
+.upbox{
+    width: 1894px;
+    height: 75px;
+    background: rgb(126, 123, 123);
+    text-align: center;
+}
+
+.box {
+    width: 623px;
+    height: 80px;
+    background: rgb(49, 136, 56);
+    margin: 5px;
+    float: left;
+    text-align: center;
+    
+
+}
